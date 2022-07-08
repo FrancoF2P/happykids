@@ -1,5 +1,5 @@
 body {
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     margin: 0px;
 }
 
@@ -25,7 +25,7 @@ a i {
 }
 
 input {
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     border: none;
     /*size: 50px;*/
     padding-left: 10px;
@@ -135,7 +135,7 @@ label a {
     width: 180px;
     height: 50px;
     margin-left: 10px;
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     font-size: 18px;
     color: white;
     background-color: black;
@@ -212,7 +212,7 @@ button:hover{
     margin-top: 60px;
     width: 150px;
     height: 35px;
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     font-size: 16px;
     color: white;
     background-color: black;
@@ -271,7 +271,7 @@ button:hover{
     width: 150px;
     height: 35px;
     margin-left: 10px;
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     font-size: 16px;
     color: white;
     background-color: black;
@@ -279,7 +279,7 @@ button:hover{
 }
 
 .light {
-    font-family: 'Brandon Grotesque Light', sans-serif;
+    font-family: 'Brandon Grotesque', sans-serif;
     font-weight: normal;
 }
 
