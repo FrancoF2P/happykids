@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Brandon Grotesque';
-    src: local('Brandon Grotesque Thin'), local('Brandon-Grotesque-Thin'),
-        url('BrandonGrotesque-Thin.woff2') format('woff2'),
-        url('BrandonGrotesque-Thin.woff') format('woff'),
-        url('BrandonGrotesque-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-  }
