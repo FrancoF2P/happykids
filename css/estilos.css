@@ -240,6 +240,14 @@ button:hover {
     justify-content: space-evenly;
     align-items: flex-start;
 }
+.informacion li a:hover {
+    color: rgb(222, 145, 86);
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
 
 .informacion ul {
     list-style: none;
